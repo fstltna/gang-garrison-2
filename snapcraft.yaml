@@ -1,9 +1,9 @@
 name:  gang-garrison-2
 title:  Gang Garrison 2
 version: "2.9.2"
-summary:   Update to the arcade classic
+summary:  Gang Garrison 2 is a free multiplayer 'demake' of Valve's Team Fortress 2
 description: |
-  Update to the arcade classic
+  Gang Garrison 2 is a free multiplayer 'demake' of Valve's Team Fortress 2. With all 9 classes, many different TF2-inspired environments, and fast-paced, team-based, multiplayer gameplay, GG2 is the premier TF2 tribute. It was originally conceived by mrfredman and MedO for the 2008 TIGSource.com 'Bootleg Demake' competition, with many developers later adding new features.
 
 grade: stable
 icon: gang-garrison-2_icon.png
